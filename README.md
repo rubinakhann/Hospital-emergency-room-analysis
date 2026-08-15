@@ -22,7 +22,7 @@ This project is an end-to-end Excel Data Analytics solution designed to analyze 
 
 ## 📊 Dashboard
 
-![Hospital Emergency Room Dashboard](screenshots/dashboard.png)
+![Hospital Emergency Room Dashboard](screenshot/dashboard.png)
 
 ---
 
