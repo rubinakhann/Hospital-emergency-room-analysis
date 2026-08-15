@@ -48,7 +48,7 @@ This dashboard helps answer:
 
 ## 🔍 Key Insights
 
-> These findings represent the **overall dataset**, without applying a specific month or date filter.
+> These findings represent the **overall dataset**, without applying a specific month or year filter.
 
 - **53.52% of patients were non-admitted**, compared with 46.48% admitted.
 - **630 patients were delayed**, while 394 were attended within the defined 30-minute threshold.
