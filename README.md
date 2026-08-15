@@ -1,7 +1,5 @@
 # 🏥 Hospital Emergency Room Analysis Dashboard
 
-This project is an end-to-end Excel Data Analytics solution designed to analyze hospital emergency-room operations and patient experience. It transforms raw patient-level data into an interactive dashboard using Power Query for data preparation, Power Pivot for data modeling, and DAX for analytical calculations. The analysis focuses on patient volume, waiting time, satisfaction, admission status, demographics, attendance timeliness, and departmental referrals, helping understand where patient flow and service performance may need attention.
-
 <p align="center">
   <a href="https://www.microsoft.com/microsoft-365/excel">
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
@@ -16,6 +14,9 @@ This project is an end-to-end Excel Data Analytics solution designed to analyze 
     <img src="https://img.shields.io/badge/DAX-4472C4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
   </a>
 </p>
+
+This project is an end-to-end Excel Data Analytics solution designed to analyze hospital emergency-room operations and patient experience. It transforms raw patient-level data into an interactive dashboard using Power Query for data preparation, Power Pivot for data modeling, and DAX for analytical calculations. The analysis focuses on patient volume, waiting time, satisfaction, admission status, demographics, attendance timeliness, and departmental referrals, helping understand where patient flow and service performance may need attention.
+
 
 ---
 
